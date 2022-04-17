@@ -1,2 +1,4 @@
-# Muhammad-Fajar-Trimulyo-SMKN-8-MALANG
 Tugas Membuat Repository GitHub
+Nama : Muhammad Fajar Tri Mulyo
+Rangers : 2
+Asal Sekolah : SMKN 8 Malang
